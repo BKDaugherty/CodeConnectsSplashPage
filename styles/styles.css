@@ -1,0 +1,97 @@
+
+a {
+	color:#EA493D;
+}
+
+a:hover{
+	color:#EA493D;
+}
+
+hr {
+	border:none;
+}
+
+select:focus{
+	outline:none;
+}
+
+body{
+	padding-bottom:0;
+}
+
+.Centerer{
+	text-align:center;
+}
+
+.CenteredImage{
+	display:inline-block;
+	vertical-align: middle;
+}
+
+*:focus{
+	outline:none;
+}
+.custom-nav-link{
+	color:white;
+}
+
+.custom-button-primary{
+	border-color:#EA493D;
+	color:#EA493D;
+}
+
+.custom-button-primary:hover{
+	background-color:#EA493D;
+	color:white;
+}
+
+.custom-border-secondary{
+	border:solid 1px;
+	border-color:#EA493D;
+}
+
+.custom-border-secondary:focus{
+	outline:none;
+}
+
+.custom-button-invert{
+	background-color:#EA493D;
+	color:white;
+}
+
+.custom-button-invert:hover{
+	border-color:#EA493D;
+	color:#EA493D;
+	background-color: white;
+}
+
+.PrimaryBackground{
+	background-color:#344258;
+}
+
+.SecondaryBackground{
+	background-color:#EA493D;
+
+}
+
+.FooterContainer{
+	border-top:solid 2em;
+	border-color:#A9C3C9;
+	margin:auto;
+	padding:20px;
+	color:white;
+	margin-left:0;
+	margin-right:0;
+}
+
+.FooterText{
+	color:white;
+}
+
+.EmailBox{
+	padding:10px;
+}
+
+.HortSpace{
+	border:none;
+}
